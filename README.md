@@ -2,7 +2,7 @@
 
 > This repository contains the challenge for the security engineers.
 
-Note: Please don't fork this repository, or create a pull request against it. Otherwise other applicants may take inspiration from it. Once the coding challenge is completed, you can submit it via this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVpv4gvm9naELQZjSl8huR4mA_x4N7-qrC3fWf34I8aTeEjg/viewform).
+**Note:** Please don't fork this repository, or create a pull request against it. Otherwise other applicants may take inspiration from it. Once the coding challenge is completed, you can submit it via this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVpv4gvm9naELQZjSl8huR4mA_x4N7-qrC3fWf34I8aTeEjg/viewform).
 
 ## Engine Exercise
 
@@ -25,7 +25,7 @@ The `source files` can be written in any language, chose whatever you think make
 
 The objective of this challenge is to containerize [NodeJsScan](https://github.com/ajinabraham/NodeJsScan) and transform the output of the tool to the following structure:
 
-```json
+```js
 {
   "engine": {
     "name": "guardrails/engine-javascript-nodejsscan",
@@ -62,8 +62,8 @@ The objective of this challenge is to containerize [NodeJsScan](https://github.c
 
 **Things that are expected:**
 
-Overall make sure that you use meaningful commit messages and write clean code.
-Wherever you’d have to add something that you feel requires product subscriptions or significant extra time, just mention it in the README.md file.
+- Overall make sure that you use meaningful commit messages, have a solid README and write clean code.
+- Wherever you’d have to add something that you feel requires product subscriptions or significant extra time, just mention it in the README.md file.
 
 **Things you don’t have to worry about:**
 
